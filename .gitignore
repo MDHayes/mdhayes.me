@@ -1,3 +1,4 @@
 .bundle
 .Procfile
 config.ru
+.DS_Store
