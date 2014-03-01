@@ -1,0 +1,84 @@
+/* Global Styles */
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.vert-text {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  color: #000000;
+  font-family: 'Convergence', sans-serif;
+}
+
+.vert-text h1 {
+  padding: 0;
+  margin: 0;
+  font-size: 4.5em;
+  font-weight: 700;
+  color: #000000;
+  font-family: 'Convergence', sans-serif;
+}
+
+/* Links to social services */
+
+.services {
+  background: #16A085;
+  padding: 50px 0;
+  color: #ffffff;
+}
+
+.service-item {
+  margin-bottom: 15px;
+}
+
+i.service-icon {
+  border: 3px solid #ffffff;
+  border-radius: 50%;
+  display: inline-block;
+  font-size: 56px;
+  width: 140px;
+  height: 140px;
+  line-height: 136px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+/*Headers */
+
+h1 {
+  margin: 0.67em 0;
+  font-size: 2em;
+  font-family: 'Dosis', sans-serif;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+font-family: 'Convergence', sans-serif;
+  font-weight: 500;
+  line-height: 1.1;
+  color: inherit;
+}
+
+/* Footer */
+
+footer {
+  background: #16A085;
+  padding: 10px 0;
+  color: #ffffff;
+
+}

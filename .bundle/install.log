@@ -1,0 +1,11 @@
+# Logfile created on 2014-02-18 16:13:36 +0000 by logger.rb/44203
+I, [2014-02-18T16:13:36.683847 #11370]  INFO -- : 0:  rack (1.5.2) from /Users/michaelhayes/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-18T16:13:40.126334 #11370]  INFO -- : 0:  rack-protection (1.5.1) from /Users/michaelhayes/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/rack-protection-1.5.1.gemspec
+I, [2014-02-18T16:13:40.126691 #11370]  INFO -- : 0:  tilt (1.4.1) from /Users/michaelhayes/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-18T16:13:42.136708 #11370]  INFO -- : 0:  sinatra (1.4.4) from /Users/michaelhayes/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-18T16:13:42.137015 #11370]  INFO -- : 0:  bundler (1.5.1) from /Users/michaelhayes/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec
+I, [2014-02-27T09:35:04.437870 #55051]  INFO -- : 0:  rack (1.5.2) from /Users/michaelhayes/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-27T09:35:04.439083 #55051]  INFO -- : 0:  rack-protection (1.5.1) from /Users/michaelhayes/.rvm/gems/ruby-2.1.0@global/specifications/rack-protection-1.5.1.gemspec
+I, [2014-02-27T09:35:04.439397 #55051]  INFO -- : 0:  tilt (1.4.1) from /Users/michaelhayes/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-27T09:35:04.439674 #55051]  INFO -- : 0:  sinatra (1.4.4) from /Users/michaelhayes/.rvm/gems/ruby-2.1.0@global/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-27T09:35:04.439943 #55051]  INFO -- : 0:  bundler (1.5.1) from /Users/michaelhayes/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
