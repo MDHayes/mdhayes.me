@@ -4,6 +4,7 @@ html,
 body {
   height: 100%;
   width: 100%;
+  background: #16A085;
 }
 
 .vert-text {
@@ -21,6 +22,12 @@ body {
   font-weight: 700;
   color: #000000;
   font-family: 'Convergence', sans-serif;
+}
+
+/* About */
+#about {
+  background: #ffffff;
+  padding: 20px 0px;
 }
 
 /* Links to social services */
@@ -80,5 +87,4 @@ footer {
   background: #16A085;
   padding: 10px 0;
   color: #ffffff;
-
 }
